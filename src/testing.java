@@ -2,12 +2,15 @@
 public class testing {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stu
+		
 
 		
 		int myNum=5;
+		String myName="Akash";
 		
 		System.out.println(myNum);
+		System.out.println(myName);
+		
 	
 	}
 
