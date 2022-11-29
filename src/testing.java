@@ -17,6 +17,8 @@ public class testing {
 		System.out.println("git commit -m");
 		System.out.println("git push origin main");
 		System.out.println("git pull origin main");
+		System.out.println("This done by github");
+		System.out.println("By using command prompt");
 		
 		
 	

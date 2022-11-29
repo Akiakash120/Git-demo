@@ -12,6 +12,7 @@ public class SelIntroduction {
 		driver.get("https://www.selenium.dev/downloads/");
 			System.out.println(driver.getTitle());
 			System.out.println(driver.getCurrentUrl());
+			System.out.println("Selenium tools");
 			driver.quit();
 	}
 

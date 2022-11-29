@@ -12,7 +12,10 @@ public class CoreJavaBrushup1 {
 		boolean mycard=true;
 		
 		System.out.println(myNum+ "ygybj jnuhybu");
+		System.out.println("Working on github");
+		System.out.println("Switched to develop");
 		
+				
 		
 	}
 	public void Fun()

@@ -23,7 +23,8 @@ public class Corejavabrushup3 {
 		System.out.println(s.charAt(i));
 
 		}
-
+		System.out.println("This is Corejavabrushup3");
+		System.out.println("By using command prompt");
 		
 	}
 
