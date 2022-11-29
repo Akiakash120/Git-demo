@@ -21,5 +21,13 @@ public class testing {
 		
 	
 	}
+	public void Testing()
+	{
+		System.out.println("Just for fun");
+	}
+	public void Testing1()
+	{
+		System.out.println("Just for fun");
+	}
 
 }

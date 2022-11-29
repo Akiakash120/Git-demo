@@ -15,5 +15,9 @@ public class CoreJavaBrushup1 {
 		
 		
 	}
+	public void Fun()
+	{
+		System.out.println("Java Selenium");
+	}
 
 }
